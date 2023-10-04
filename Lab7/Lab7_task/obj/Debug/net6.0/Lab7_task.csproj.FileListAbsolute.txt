@@ -1,0 +1,14 @@
+D:\0_Visual_Projects\Lab7\Lab7_task\bin\Debug\net6.0\Lab7_task.exe
+D:\0_Visual_Projects\Lab7\Lab7_task\bin\Debug\net6.0\Lab7_task.deps.json
+D:\0_Visual_Projects\Lab7\Lab7_task\bin\Debug\net6.0\Lab7_task.runtimeconfig.json
+D:\0_Visual_Projects\Lab7\Lab7_task\bin\Debug\net6.0\Lab7_task.dll
+D:\0_Visual_Projects\Lab7\Lab7_task\bin\Debug\net6.0\Lab7_task.pdb
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.AssemblyInfoInputs.cache
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.AssemblyInfo.cs
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.csproj.CoreCompileInputs.cache
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.dll
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\refint\Lab7_task.dll
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.pdb
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\Lab7_task.genruntimeconfig.cache
+D:\0_Visual_Projects\Lab7\Lab7_task\obj\Debug\net6.0\ref\Lab7_task.dll
